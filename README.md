@@ -1,6 +1,6 @@
 # ML-assignment1
 
-i have used a dataset from internet for this project. The steps ive folloed are
+i have used a dataset from internet for this project. The steps are
 
 
 Loaded the dataset, Handled missing data if there's any missing.
